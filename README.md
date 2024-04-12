@@ -77,4 +77,12 @@ with new features or fixes without disrupting the main codebase, and then seamle
 they're ready.
 
 ### Github
+GitHub is a cloud platform for hosting and managing distributed repositories using the Git version control system. 
+Founded in 2008, GitHub has grown into the largest and most influential software development platforms in the world. 
+Originally created to simplify sharing code, GitHub has expanded to cater to small teams and large enterprises alike. 
 
+In 2018, GitHub was acquired by Microsoft.
+
+GitHub provides powerful collaboration tools such as pull requests, which allow developers to propose changes, 
+review code, and provide feedback before merging them into the main codebase. Furthermore, GitHub offers issue tracking,
+project boards, and wikis, empowering teams to organize tasks, prioritize work, and document their projects effectively.
