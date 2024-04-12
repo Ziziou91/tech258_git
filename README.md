@@ -59,3 +59,22 @@ We have useful git commands that allow us to view a git project's commit history
 - `git log` -  Show commit logs
 - `git diff` - Show changes between commits, commit and working tree, etc
 
+## Distributed Version Control
+![Example of Distributed Version Control](distributed_version_control_diagram.jpeg)
+Distributed version control is a system that allows multiple users to collaborate on a codebase by maintaining a copy of
+the entire repository locally on their computers. Each user has a complete history of the project, including all files 
+and their revisions. This decentralized approach contrasts with centralized version control systems, where there is a 
+single central repository that users must connect to in order to access the codebase. In distributed version control, 
+users can work offline, make changes, and commit them to their local repository. They can later synchronize their 
+changes with others by pushing and pulling changes between repositories.
+
+Distributed version control offers greater flexibility and autonomy to developers
+as they can work independently without relying on a central server. This decentralization also enhances collaboration, 
+as team members can work in parallel on different branches of the codebase without interfering with each other's work. 
+Additionally, distributed version control systems provide robustness and reliability, as each user's local copy serves 
+as a backup of the entire project. Furthermore, they facilitate branching and merging, making it easier to experiment 
+with new features or fixes without disrupting the main codebase, and then seamlessly integrating these changes when 
+they're ready.
+
+### Github
+
